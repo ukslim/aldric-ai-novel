@@ -43,18 +43,29 @@ based on a hybrid of well-established screenplay/novel planning frameworks.
 Print it, put it in a bookshop, and it might pass as the real thing until a
 customer takes it home and reads it with proper attention.
 
-It has plenty of AI weirdness. The intermediate documents, and Claude's chat as
+Once you read it with any attention, although it seems to start OK, 
+it soon collapses into incoherence. The continuity between chapters
+is broken (possibly an artifact of how the draft was written and revised
+chapter-by-chapter -- although it always had the opportunity to refer
+to other chapters). It repeats itself, making it a really boring read, 
+even though the "revision" draft claimed to reduce that.
+
+The plot seems to make sense at inception, but by the time it makes
+it to the page it's nonsensical and also, really dull. I think you could
+probably identify the "beats" referred to in the plans, but there's no way
+you can make yourself care about them.
+
+It has plenty of AI weirdness. There's a bonkers bit of discontinuity about a phone ringing, early on.
+The intermediate documents, and Claude's chat as
 it edits, keeps referring to a "Tom and Maggie romantic B-plot" - but no
 romantic scene ever materialises, not a kiss or a hug or a romantic whisper.
-Then in the epilogue they are engaged! Towards the end it suddenly starts to
-label scenes within chapters "Scene 1"...
+Then in the epilogue they are engaged!
 
 A while ago, an AI writing prose was like a dog walking on its hind legs "It is
 not done well, but you are surprised to find it done at all!". I think we are
 still in that territory, but the gap is closing. I also think that if you make
-allowances, it's possible to read this with a degree if pleasure. Revel in what
-it's done well. When it's done badly, well, enjoy it in the same spirit as a dog
-walking on its hind legs.
+allowances, it's possible to read this with a degree of pleasure - in the same
+spirit as watching a dog walking on its hind legs.
 
 ## How it was made
 
